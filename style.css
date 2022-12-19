@@ -23,7 +23,7 @@ body {
     display:flex;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
+/*     overflow: hidden; */
     justify-content: center;
     align-items: center;
 }
@@ -116,7 +116,7 @@ footer {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (max-width:471px) {
+@media screen and (max-width:371px) {
     main {
         border-radius: 2rem;
         display:flex;
