@@ -116,7 +116,7 @@ footer {
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media screen and (max-width:371px) {
+@media screen and (max-width:471px) {
     main {
         border-radius: 2rem;
         display:flex;
