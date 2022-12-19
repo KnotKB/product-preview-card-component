@@ -21,6 +21,7 @@ html {
 body {
     background-color: var(--Cream);
     display:flex;
+    flex-direction: column;
     width: 100vw;
     height: 100vh;
 /*     overflow: hidden; */
@@ -109,10 +110,7 @@ main {
     height: 1em;
     padding: 0 0.3em;
 }
-footer {
-    position:absolute;
-    bottom:1rem;
-}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
